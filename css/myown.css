@@ -1,0 +1,16 @@
+.shop-now-box {
+    background-color: #343434;
+    padding: 10px;
+    text-align: center;
+    width: 130px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.shop-now-link {
+    color: white;
+    text-decoration: none;
+    font-weight: 100;
+    font-family: "Roboto Thin", Arial, sans-serif;
+}
